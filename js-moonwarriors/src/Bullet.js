@@ -90,3 +90,4 @@ Bullet.preSet = function () {
         bullet.active = false;
     }
 };
+//tengyulei hahhahahahah
